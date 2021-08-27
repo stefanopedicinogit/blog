@@ -1,4 +1,4 @@
-baseURL: https://stefanopedicinogit.github.io/blog/
+baseURL: https://stefanopedicinogit/blog/
 
 languageCode: en-us
 title: "Stefano's Blog"
@@ -27,7 +27,7 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL of your site
-  gitRepo: https://github.com/stefanopedicinogit/blog
+  gitRepo: https://github.com/stefanopedicinogit/blog/
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
