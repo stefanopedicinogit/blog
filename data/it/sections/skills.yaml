@@ -52,7 +52,7 @@ skills:
   url: "https://docs.microsoft.com/it-it/dotnet/csharp/"
 
 - name: Unity 3D
-  logo: /images/sections/skills/Unity.png
+  logo: /images/sections/skills/unity.png
   summary: "Conoscenza base. Piattaforma/Interfaccia grafica per la creazione di videogames."
   url: "https://unity.com/"
 
