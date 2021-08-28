@@ -14,7 +14,7 @@ designation: Data Scientist
   #name: looking_for_a_company
 
 # your resume. this file path should be relative to you "static" directory
-resume: "/files/Resume-Set-2021-Stefano-Pedicino.pdf"
+resume: "files/Resume-Set-2021-Stefano-Pedicino.pdf"
 
 # a summary about you
 summary: 'I am a passionate data scientist with 1 year experience and a strong informatic litterature. I build algorithims, models and neural networks to deal with Big Data. I am currently starting to study Networking and Linux Foundations.'
