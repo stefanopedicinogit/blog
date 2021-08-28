@@ -14,7 +14,7 @@ company:
   name: In cerca di un azienda!
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume_stefano_pedicino.pdf"
+resume: "files/Resume-Set-2021-Stefano-Pedicino.pdf"
 
 # a summary about you
 summary: 'Sono un appassionato di data science con un anno di esperienza e una forte passione per l informatica. Mi piace costruire algoritmi, modelli e reti neurali per processare grandi quantita di dati. Al momento, ho cominciato a studiare le reti e le basi di Linux.'
