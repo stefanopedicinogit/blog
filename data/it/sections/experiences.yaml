@@ -12,7 +12,7 @@ section:
 experiences:
 - company:
     name: Practicum by Yandex
-    url: "https://www.linkedin.com/school/practicum-by-yandex/mycompany/"
+    url: "https://practicum.yandex.com/"
     location: Remoto
     # company overview
     overview: Bootcamp offerto dalla Yandex School of Data Analysis (580 ore).
@@ -40,7 +40,6 @@ experiences:
 
 - company:
     name: MX Lab Milan (Freelance)
-    url: "https://www.example.com"
     location: Remote
     overview: Curatore di una serie di video in streaming una volta alla settimana (2 ore).
   positions:
@@ -54,7 +53,6 @@ experiences:
 
 - company:
     name: foodora
-    url: "https://www.example.com"
     location: Berlino
     overview: Parte del dipartimento assistenza clienti italiano
   positions:
