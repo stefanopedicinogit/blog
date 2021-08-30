@@ -43,9 +43,9 @@ socialLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Diploma di completamento del corso Data Scientist Professional Training rilasciato da Yandex Inc, Boston, MA
-  url: "https://code.s3.yandex.net/practicum_certificate/DS/10/Stefano_Pedicino.pdf"
-  badge: "https://imgbb.com/https://i.ibb.co/557fQMZ/yandex.png"
+  name: Essential Networking by Cisco
+  url: "https://www.credly.com/badges/1a37c4fe-cf44-4a41-9b24-a5d15781b6f3"
+  badge: "https://images.credly.com/size/340x340/images/d7f73336-9adb-4833-a602-761837a33ba3/NetworkingEssentials-01.png"
 
 - type: certification
   name: Introduzione alla Cybersecurity by Cisco
