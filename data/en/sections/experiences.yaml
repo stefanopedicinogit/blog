@@ -16,6 +16,7 @@ experiences:
     location: Remote
     # company overview
     overview: Bootcamp offered by the Yandex School of Data Analysis (580 hours).
+    url: "https://practicum.yandex.com/"
   positions:
   - designation: Data Science Student
     start: Dic 2020
@@ -40,7 +41,6 @@ experiences:
 
 - company:
     name: MX Lab Milan (Freelance)
-    url: "https://www.example.com"
     location: Remote
     overview: Curator of a Videos’ streaming serie once a week (2 hours).
   positions:
@@ -54,7 +54,6 @@ experiences:
 
 - company:
     name: foodora
-    url: "https://www.example.com"
     location: Berlino
     overview: Part of italian CS Department
   positions:
