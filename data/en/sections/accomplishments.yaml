@@ -18,4 +18,4 @@ accomplishments:
     name: Practicum by Yandex
     url: https://practicum.yandex.com/
   courseOverview: "This course provides a broad introduction to data analysis, machine learning, datamining, statistical pattern recognition. Topics include: (I) Python and data analysis basis and exploratory data analysis. (II) SQL data collection and storage. (III) Linear algebra, numerical methods and time series. (IV) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (V) Unsupervised learning (clustering, dimensionality reduction, recommender systems, introduction to deep learning). Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://code.s3.yandex.net/practicum_certificate/DS/10/Stefano_Pedicino.pdf."
+  certificateURL: "https://code.s3.yandex.net/practicum_certificate/DS/10/Stefano_Pedicino.pdf"
