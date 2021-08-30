@@ -15,6 +15,7 @@ degrees:
   timeframe: 2020-2021
   institution:
     name: Yandex School of Data Analysis
+    url: "https://practicum.yandex.com/"
 
 - name: Bachelor Degree in Tourism Development Policy and Management (EQF level 6)
   icon: fa-graduation-cap
