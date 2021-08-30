@@ -10,6 +10,12 @@ section:
   # hideTitle: true
 
 degrees:
+- name: Data Scientist Professional Training Course (580 hours)
+  icon: fa-graduation-cap
+  timeframe: 2020-2021
+  institution:
+    name: Yandex School of Data Analysis
+
 - name: Bachelor Degree in Tourism Development Policy and Management (EQF level 6)
   icon: fa-graduation-cap
   timeframe: 2014-2017
@@ -49,8 +55,3 @@ degrees:
     scale: Vote
     achieved: 87
     outOf: 100
-- name: Data Scientist Professional Training Course (580 hours)
-  icon: fa-graduation-cap
-  timeframe: 2020-2021
-  institution:
-    name: Yandex School of Data Analysis
