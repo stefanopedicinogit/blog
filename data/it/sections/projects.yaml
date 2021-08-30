@@ -159,10 +159,3 @@ projects:
   repo: https://github.com/hossainemruz/toha
   summary: Tema Hugo per portfolio personale.
   tags: ["hobby","hugo","theme"]
-
-- name: Esempio di carte accademiche
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
