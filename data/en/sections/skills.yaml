@@ -15,6 +15,11 @@ skills:
   logo: /images/sections/skills/python.png
   summary: "Advanced programming skills."
   url: "https://www.python.org/"
+  
+- name: Anaconda, Jupyter, Visual Core Studio
+  logo: /images/sections/skills/anaconda.png
+  summary: "Thorough knowledge of Data Science IDE."
+  url: "https://www.anaconda.com/"
 
 - name: seaborn, Matplotlib, plotly
   logo: /images/sections/skills/Seaborn.png
