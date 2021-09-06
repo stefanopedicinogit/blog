@@ -19,7 +19,7 @@ accomplishments:
   courseOverview: "Questo corso fornisce un'ampia introduzione all'analisi dei dati, all'apprendimento automatico, al datamining e al riconoscimento di modelli statistici. Gli argomenti includono: (I) Python e basi di analisi dei dati e analisi esplorativa dei dati. (II) Raccolta e archiviazione di dati SQL. (III) Algebra lineare, metodi numerici e serie storiche. (IV) Apprendimento supervisionato (algoritmi parametrici/non parametrici, macchine vettoriali di supporto, kernel, reti neurali). (V) Apprendimento non supervisionato (clustering, riduzione della dimensionalità, sistemi di raccomandazione, introduzione all'apprendimento profondo). Best practice nell'apprendimento automatico (teoria del bias/varianza; processo di innovazione nell'apprendimento automatico e nell'intelligenza artificiale)."
   certificateURL: "https://code.s3.yandex.net/practicum_certificate/DS/10/Stefano_Pedicino.pdf"
 
-- name: Introduction to Packet Tracer Certification
+- name: Introduzione a Packet Tracer - Certificatione
   timeline: "Dic 2020 - Aug 2021"
   organization:
     name: Cisco Networking Academy
@@ -27,7 +27,7 @@ accomplishments:
   courseOverview: "Questo corso introduttivo è estremamente utile per chiunque abbia intenzione di seguire uno dei corsi della Networking Academy che utilizza il potente strumento di simulazione Packet Tracer. Il corso fornisce queste competenze di base: (I) Simulare interazioni di dati che viaggiano attraverso una rete. (II) Visualizzare la rete sia in modalità logica che fisica. (III) Applicare le competenze attraverso la pratica, utilizzando i laboratori e le attività di Cisco Packet Tracer. (IV) Sviluppare il pensiero critico e le capacità di risoluzione dei problemi. (V) Mettirsi in relazione con l'installazione e la configurazione dei dispositivi IoT (Internet of Things)."
   certificateURL: "https://smallpdf.com/result#r=140508766a150e965f6eeaaa1be376ed&t=share-document"  
   
-- name: Recommendation letter from Practicum by Yandex
+- name: Lettera di raccomandazione da Practicum by Yandex
   timeline: "Sept 2021"
   organization:
     name: Practicum by Yandex
@@ -35,7 +35,7 @@ accomplishments:
   courseOverview: "Lettera di raccomandazione di Practicum di Yandex per la diligenza con cui ho completato il programma e per il mio impegno come studente Senior."
   certificateURL: "https://smallpdf.com/result#r=97eb42bf467b14575c2e33f34241e72b&t=share-document"
   
-- name: Recommendation letter from POP SRL 
+- name: Lettera di raccomandazione da POP SRL 
   timeline: "Set 2017"
   organization:
     name: POP SRL
