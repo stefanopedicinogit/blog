@@ -11,15 +11,7 @@ section:
 
 # Your accomplishments
 accomplishments:
-  
-- name: Recommendation letter from Practicum by Yandex
-  timeline: "Sept 2021"
-  organization:
-    name: Practicum by Yandex
-    url: https://practicum.yandex.com/
-  courseOverview: "Recommendation letter from Practicum by Yandex for the diligence with which I completed the program and for my commitment as a Senior student."
-  certificateURL: ""
-  
+
 - name: Data Scientist Professional Training Course (580 hours)
   timeline: "Dic 2020 - Aug 2021"
   organization:
@@ -27,6 +19,14 @@ accomplishments:
     url: https://practicum.yandex.com/
   courseOverview: "This course provides a broad introduction to data analysis, machine learning, datamining, statistical pattern recognition. Topics include: (I) Python and data analysis basis and exploratory data analysis. (II) SQL data collection and storage. (III) Linear algebra, numerical methods and time series. (IV) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (V) Unsupervised learning (clustering, dimensionality reduction, recommender systems, introduction to deep learning). Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
   certificateURL: "https://code.s3.yandex.net/practicum_certificate/DS/10/Stefano_Pedicino.pdf"
+  
+- name: Recommendation letter from Practicum by Yandex
+  timeline: "Sept 2021"
+  organization:
+    name: Practicum by Yandex
+    url: https://practicum.yandex.com/
+  courseOverview: "Recommendation letter from Practicum by Yandex for the diligence with which I completed the program and for my commitment as a Senior student."
+  certificateURL: "https://smallpdf.com/result#r=97eb42bf467b14575c2e33f34241e72b&t=share-document"
   
 - name: Recommendation letter from POP SRL 
   timeline: "Set 2017"
