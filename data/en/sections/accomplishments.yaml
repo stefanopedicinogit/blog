@@ -20,6 +20,14 @@ accomplishments:
   courseOverview: "This course provides a broad introduction to data analysis, machine learning, datamining, statistical pattern recognition. Topics include: (I) Python and data analysis basis and exploratory data analysis. (II) SQL data collection and storage. (III) Linear algebra, numerical methods and time series. (IV) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (V) Unsupervised learning (clustering, dimensionality reduction, recommender systems, introduction to deep learning). Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
   certificateURL: "https://code.s3.yandex.net/practicum_certificate/DS/10/Stefano_Pedicino.pdf"
   
+- name: Introduction to Packet Tracer Certification
+  timeline: "Dic 2020 - Aug 2021"
+  organization:
+    name: Cisco Networking Academy
+    url: https://www.netacad.com/
+  courseOverview: " This Introductory course is extremely helpful for anyone who plans to take one of the Networking Academy courses which utilizes the powerful simulation tool Packet Tracer. You'll Learn These Core Skills: simulate data interactions traveling through a network, visualize the network in both logical and physical modes, apply skills through practice, using labs and Cisco Packet Tracer activities, develop critical thinking and problem-solving skills, learn how to relate yourself with IoT(Internet of Things) devices."
+  certificateURL: "https://code.s3.yandex.net/practicum_certificate/DS/10/Stefano_Pedicino.pdf"  
+  
 - name: Recommendation letter from Practicum by Yandex
   timeline: "Sept 2021"
   organization:
