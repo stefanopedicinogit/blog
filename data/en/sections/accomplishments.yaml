@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Accomplishments
+  name: Accomplishments & Recommendation letters
   id: accomplishments
   enable: true
   weight: 7
@@ -19,3 +19,19 @@ accomplishments:
     url: https://practicum.yandex.com/
   courseOverview: "This course provides a broad introduction to data analysis, machine learning, datamining, statistical pattern recognition. Topics include: (I) Python and data analysis basis and exploratory data analysis. (II) SQL data collection and storage. (III) Linear algebra, numerical methods and time series. (IV) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (V) Unsupervised learning (clustering, dimensionality reduction, recommender systems, introduction to deep learning). Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
   certificateURL: "https://code.s3.yandex.net/practicum_certificate/DS/10/Stefano_Pedicino.pdf"
+  
+ - name: Recommendation letter from Practicum by Yandex
+  timeline: "Sept 2021"
+  organization:
+    name: Practicum by Yandex
+    url: https://practicum.yandex.com/
+  courseOverview: "Recommendation letter from Practicum by Yandex for the diligence with which I completed the program and for my commitment as a Senior student."
+  certificateURL: ""
+  
+ - name: Recommendation letter from POP SRL 
+  timeline: "Set 2017"
+  organization:
+    name: POP SRL
+    url: https://popcommunication.it/
+  courseOverview: "Recommendation letter from POP SRL communications company leader in Northen Italy"
+  certificateURL: "https://smallpdf.com/result#r=bdf1e8860c46387998cb40e1b42624eb&t=share-document"
