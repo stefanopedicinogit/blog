@@ -33,7 +33,7 @@ degrees:
     courses:
     - name: Statistic
       achieved: 30
-      outOf: 30
+      outOf: 30+
     - name: Politic Economy
       achieved: 30+
       outOf: 30+
