@@ -27,7 +27,7 @@ projects:
   timeline: "Dic 2020 - Jan 2021"
   repo: https://github.com/stefanopedicinogit/Data_Preprocessing-Project/blob/main/Data%20Preprocessing%20Project.ipynb # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Preparazione di un rapporto per la divisione prestiti di una banca.
+  summary: Preparazione di un rapporto per la divisione prestiti di una banca. Pulisci, riordina e classifica i dati.
   tags: ["professionale", "Yandex", "pre-elaborazione", "pandas", "numpy"]
 
 - name: Analisi esplorativa dei dati
@@ -45,7 +45,7 @@ projects:
   timeline: "Jan 2021 - Feb 2021"
   repo: https://github.com/stefanopedicinogit/Statistical_Data_Analysis-SDA-Project/blob/main/Statistical%20Data%20Analysis%20Project.ipynb
   #url: ""
-  summary: Il tuo compito è analizzare il comportamento dei clienti e determinare quale piano prepagato genera maggiori entrate. Ipotesi statistiche A/B.
+  summary: Analizzare il comportamento dei clienti e fare ipotesi statistiche con l'aiuto di test A/B.
   tags: ["professionale", "Yandex", "statistica", "analisi_di_dati"]
 
 - name: Progetto integrato 1
@@ -54,7 +54,7 @@ projects:
   timeline: "Feb 2021 - Mar 2021"
   repo: https://github.com/stefanopedicinogit/Integrated_Project_1/blob/main/Integrated%20Project%201%20.ipynb
   #url: ""
-  summary: Come analista di dati per un negozio online che vende videogiochi in tutto il mondo, effettuare analisi dei dati e formulare ipotesi statistiche.
+  summary: Effettua analisi dei dati, visualizzazione dei dati, formula ipotesi statistiche e una prognosi per le vendite del prossimo anno..
   tags: ["professionale", "Yandex", "statistica", "analisi_di_dati"]
 
 - name: Raccolta e archiviazione dati-SQL-PySparks
@@ -63,7 +63,7 @@ projects:
   timeline: "Mar 2021 - Mar 2021"
   repo: https://github.com/stefanopedicinogit/Data_Collection_and_Storage-SQL-PySparks-Project/blob/main/Data%20Collection%20and%20Storage%20(SQL)%20Project.ipynb
   #url: ""
-  summary: Studia un database, analizza i dati dei concorrenti e verifica un'ipotesi sull'impatto del tempo sulla frequenza delle corse dei taxi.
+  summary: Recupera i dati da SQL e verifica in Python un'ipotesi sull'impatto del tempo sulla frequenza di corsa.
   tags: ["professionale", "Yandex", "SQL", "PySparks", 'raccolta_archiviazione_dati']
 
 - name: Introduzione all'apprendimento automatico
@@ -72,7 +72,7 @@ projects:
   timeline: "Mar 2021 - Apr 2021"
   repo: https://github.com/stefanopedicinogit/Introduction_to_Machine_Learning-Project/blob/main/Introduction%20to%20Machine%20Learning%20Project.ipynb
   #url: ""
-  summary: Per questa attività di classificazione, è necessario sviluppare un modello che scelga il piano giusto. La soglia di precisione è 0,75.
+  summary: Compito di classificazione, sviluppare un modello che sceglierà il piano giusto. La soglia di accuracy è 0,75.
   tags: ["professionale", "Yandex", "apprendimento_automatico", "modelli_di_classificazione"]
 
 - name: Apprendimento supervisionato
@@ -81,7 +81,7 @@ projects:
   timeline: "Apr 2021 - Apr 2021"
   repo: https://github.com/stefanopedicinogit/Supervised_Learning/blob/main/Supervised%20Learning%20Project.ipynb
   #url: ""
-  summary: I clienti lasciano la banca, a poco a poco, intaccando ogni mese. I banchieri hanno capito che è più economico salvare i clienti esistenti piuttosto che attirarne di nuovi. Indovina se un cliente lascerà presto la banca. Per superare il progetto, è necessario un punteggio F1 di almeno 0,59.
+  summary: Compito di classificazione. Indovina se un cliente lascerà presto la banca. La soglia per il punteggio F1 è almeno 0,59.
   tags: ["professionale", "Yandex", "apprendimento_automatico", "modelli_di_classificazione", "apprendimento_supervisionato", "f1_score", "ROC"]
 
 - name: Apprendimento automatico nel business
@@ -90,7 +90,7 @@ projects:
   timeline: "Apr 2021 - May 2021"
   repo: https://github.com/stefanopedicinogit/Machine_Learning_in_Business-Project/blob/main/Machine%20Learning%20in%20Business%20Project.ipynb
   #url: ""
-  summary: Working for A mining company. The task is to find the best place for a new well. Build a model for predicting the volume of reserves in the new wells. Build a model that will help to pick the region with the highest profit margin. Analyze potential profit and risks using the Bootstrapping technique.
+  summary: Compito di regressione. Costruisci un modello per prevedere il volume delle riserve e scegli la regione con il margine di profitto più alto. Analizza potenziali profitti e rischi utilizzando la tecnica Bootstrapping.
   tags: ["professionale", "Yandex", "apprendimento_automatico", "regressione_lineare", "scarto_quadratico_medio", "r2_score", "calcolo_del_rischio", "tecnica_di_boostrap"]
 
 - name: Progetto integrato 2
@@ -99,7 +99,7 @@ projects:
   timeline: "May 2021 - May 2021"
   #repo:
   #url: ""
-  summary: Preparazione di un prototipo di un modello di apprendimento automatico per una fonderia di minerali. Questa azienda sviluppa soluzioni di efficienza per l'industria pesante. Il modello interessato dovrebbe prevedere la quantità di oro recuperata dal minerale d'oro. Metodo di valutazione SMPE.
+  summary: Compito di regressione. Il modello interessato dovrebbe prevedere la quantità di oro recuperata dal minerale d'oro. Metodo di valutazione SMPE.
   tags: ["professionale", "Yandex", "apprendimento_automatico", "regressione_lineare", "SMAPE"]
 
 - name: Algebra lineare
@@ -108,7 +108,7 @@ projects:
   timeline: "May 2021 - May 2021"
   repo: https://github.com/stefanopedicinogit/Linear_Algebra/blob/main/Linear%20Algebra%20Project.ipynb
   #url: ""
-  summary: Una compagnia di assicurazioni vuole risolvere diversi compiti con l'aiuto del Machine Learning e ti viene chiesto di valutare tale possibilità. Trova clienti simili a un determinato cliente. Questo aiuterà gli agenti dell'azienda con il marketing. Prevedi se è probabile che un nuovo cliente riceva un vantaggio assicurativo. Può un modello di previsione fare meglio di un modello fittizio? Prevedere il numero di vantaggi assicurativi che un nuovo cliente potrebbe ricevere utilizzando un modello di regressione lineare. Proteggi i dati personali dei clienti senza interrompere il modello dell'attività precedente. È necessario sviluppare una trasformazione dei dati.
+  summary: L'obiettivo è trovare clienti simili a un determinato cliente e prevedere se è probabile che un nuovo cliente riceva un vantaggio assicurativo, inoltre prevedere il numero di vantaggi assicurativi che è probabile che un nuovo cliente riceva. Proteggi i dati personali dei clienti effettuando l'offuscamento.
   tags: ["professionale", "Yandex", "numpy", "machine_learning", "modelli_di_regressione_classificazione", "algebra_applicata", "matrici", "matrici_offuscate", "KNeighbors"]
 
 - name: Metodi numerici
@@ -116,7 +116,7 @@ projects:
   role: Owner / Data Scientist
   timeline: "May 2021 - Jun 2021"
   repo: https://github.com/stefanopedicinogit/Numerical_Methods-Project/blob/main/Numerical%20Methods%20Project.ipynb
-  summary: Un servizio di vendita di auto usate sta sviluppando un'app per attirare nuovi clienti. In quell'app, puoi scoprire rapidamente il valore di mercato della tua auto. Hai accesso a dati storici, specifiche tecniche, versioni di allestimento e prezzi. È necessario costruire il modello per determinare il valore. Questa società è interessata alla qualità delle predizioni, alla velocità delle predizioni, al tempo necessario per l'allenamento.
+  summary: Compito di regressione. Costruisci un modello per prevedere il valore di mercato della tua auto. Calcola la qualità del pronostico, la velocità del pronostico, il tempo necessario per l'allenamento.
   tags: ["professionale", "Yandex", "apprendimento_automatico", "regressione_lineare", "modelli_regressivi_SGD", "CatBoost", "LGBM", "XGBoost"]
 
 - name: Serie temporali
@@ -125,7 +125,7 @@ projects:
   timeline: "Jun 2021 - Jun 2021"
   repo: https://github.com/stefanopedicinogit/Time_Series-Project/blob/main/Time%20Series%20Project.ipynb
   #url: ""
-  summary: Una compagnia di taxi ha raccolto dati storici sugli ordini di taxi negli aeroporti. Per attirare più conducenti durante le ore di punta, prevedere la quantità di ordini di taxi per l'ora successiva. Costruisci un modello per tale previsione. La metrica RMSE sul set di test non deve essere superiore a 48.
+  summary: Modello di regressione. Prevedi la quantità di ordini di taxi per l'ora successiva. La metrica RMSE sul set di test non deve essere superiore a 48.
   tags: ["professionale", "Yandex", "apprendimento_automatico", "regressione_lineare", "serie temporali", "Modelli stocastici a discesa con gradiente"]
 
 - name: Apprendimento automatico per i testi
@@ -133,7 +133,7 @@ projects:
   role: Owner / Data Scientist
   timeline: "Jun 2021 - July 2021"
   repo: https://github.com/stefanopedicinogit/Machine_Learning_For_Text-Project/blob/main/Machine%20Learning%20for%20Texts%20Project.ipynb
-  summary: A new edgy community for classic movie enthusiasts, is developing a system for filtering and categorizing movie reviews. The goal is to train a model to automatically detect negative reviews. F1 score of at least 0.85.
+  summary: L'obiettivo è addestrare un modello a rilevare automaticamente le recensioni negative. Punteggio F1 di almeno 0,85.
   tags: ["professionale", "Yandex", "apprendimento_automatico", "modelli_di_classificazione", "probabilita", "NLTK", "spaCy" ,"TF-IDF", "BERT"]
 
 - name: Visione artificiale
@@ -149,7 +149,7 @@ projects:
   role: Owner / Data Scientist
   timeline: "Aug 2021 - Aug 2021"
   repo: https://github.com/stefanopedicinogit/Final-Project
-  summary: Un'azienda telefonica vorrebbe essere in grado di prevedere il tasso di abbandono dei propri clienti. Costruisci un modello per prevedere l'obiettivo. (Due file ipynb nel collegamento.)
+  summary: Problema di classificazione. Costruisci un modello per prevedere possibili tassi di abbandono. (Due file ipynb nel collegamento.)
   tags: ["professionale", "Yandex", "apprendimento_automatico"]
 
 - name: Toha
