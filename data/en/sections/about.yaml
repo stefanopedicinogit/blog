@@ -61,6 +61,21 @@ badges:
   name: Data Science Foundations - Level 2 (V2) by IBM
   url: "https://www.credly.com/earner/earned/badge/b0d90524-e6f5-4942-9c68-58143775706a"
   badge: "https://images.credly.com/size/340x340/images/d7321425-c989-4bf9-846a-cd2a647d213b/Data_Sci_Foundations_Level_2_-_CC_-_2019.png"
+  
+- type: certification
+  name: Data Science Methodologies by IBM
+  url: "https://www.credly.com/earner/earned/badge/6b040a3d-bad7-4d04-b963-5422b01b6425"
+  badge: "https://images.credly.com/size/340x340/images/dfd6eb51-4caa-4ffe-b107-85ece064370c/Data_Science_Methodologies.png"
+
+- type: certification
+  name: Data Science Tools by IBM
+  url: "https://www.credly.com/badges/8bb70c6b-ec52-4bc5-b4ca-96780334b24f"
+  badge: "https://images.credly.com/size/340x340/images/de9471ce-018c-4bf4-af49-5c9c1d488613/Data_Science_Tools.png"
+
+- type: soft-skill-indicator
+  name: Active learning
+  percentage: 100
+  color: green
 
 - type: soft-skill-indicator
   name: Problem solving
@@ -71,11 +86,6 @@ badges:
   name: Critical Thinking
   percentage: 90
   color: orange
-
-- type: soft-skill-indicator
-  name: Active learning
-  percentage: 85
-  color: green
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
