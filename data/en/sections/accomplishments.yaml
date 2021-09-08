@@ -28,6 +28,54 @@ accomplishments:
   courseOverview: "This Introductory course is extremely helpful for anyone who plans to take one of the Networking Academy courses which utilizes the powerful simulation tool Packet Tracer. You'll Learn These Core Skills: (I) Simulate data interactions traveling through a network. (II) Visualize the network in both logical and physical modes. (III) Apply skills through practice, using labs and Cisco Packet Tracer activities. (IV) Develop critical thinking and problem-solving skills. (V) Relate yourself with IoT(Internet of Things) devices installation and configuration."
   certificateURL: "https://pdfhost.io/v/pb2CvrX1D_StefanoPedicinoIntroduction_to_Packet_Tracer_Certificate.pdf"  
   
+- name: Applied Data Science with Python - Level 2
+  timeline: "Sept 2021"
+  organization:
+    name: IBM - Developer Skills Network
+    url: https://students.yourlearning.ibm.com/
+  courseOverview: ""
+  certificateURL: 
+
+- name: Data Science Foundations - Level 2 (V2)
+  timeline: "Sept 2021"
+  organization:
+    name: IBM - Developer Skills Network
+    url: https://students.yourlearning.ibm.com/
+  courseOverview: ""
+  certificateURL: 
+
+- name: Data Analysis Using Python
+  timeline: "Sept 2021"
+  organization:
+    name: IBM - Developer Skills Network
+    url: https://students.yourlearning.ibm.com/
+  courseOverview: ""
+  certificateURL: "https://pdfhost.io/v/YThHUwgqx_CognitiveClass_DA0101EN_Certificate___Cognitive_Class.pdf"
+
+- name: Data Visualization Using Python
+  timeline: "Sept 2021"
+  organization:
+    name: IBM - Developer Skills Network
+    url: https://students.yourlearning.ibm.com/
+  courseOverview: ""
+  certificateURL: 
+
+- name: Data Science Methodologies
+  timeline: "Sept 2021"
+  organization:
+    name: IBM - Developer Skills Network
+    url: https://students.yourlearning.ibm.com/
+  courseOverview: ""
+  certificateURL: 
+
+- name: Data Science Tools
+  timeline: "Sept 2021"
+  organization:
+    name: IBM - Developer Skills Network
+    url: https://students.yourlearning.ibm.com/
+  courseOverview: ""
+  certificateURL: 
+  
 - name: Recommendation letter from Practicum by Yandex
   timeline: "Sept 2021"
   organization:
