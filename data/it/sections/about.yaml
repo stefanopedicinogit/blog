@@ -63,16 +63,6 @@ badges:
   badge: "https://images.credly.com/size/340x340/images/d7321425-c989-4bf9-846a-cd2a647d213b/Data_Sci_Foundations_Level_2_-_CC_-_2019.png"
   
 - type: certification
-  name: Data Science Methodologies by IBM
-  url: "https://www.credly.com/earner/earned/badge/6b040a3d-bad7-4d04-b963-5422b01b6425"
-  badge: "https://images.credly.com/size/340x340/images/dfd6eb51-4caa-4ffe-b107-85ece064370c/Data_Science_Methodologies.png"
-
-- type: certification
-  name: Data Science Tools by IBM
-  url: "https://www.credly.com/badges/8bb70c6b-ec52-4bc5-b4ca-96780334b24f"
-  badge: "https://images.credly.com/size/340x340/images/de9471ce-018c-4bf4-af49-5c9c1d488613/Data_Science_Tools.png"
-  
-- type: certification
   name: Applied Data Science with Python - Level 2 by IBM
   url: "https://www.credly.com/earner/earned/badge/9e189743-58b9-4cb1-bd73-50162a2386e8"
   badge: "https://images.credly.com/size/340x340/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png"
@@ -82,10 +72,6 @@ badges:
   url: "https://www.credly.com/earner/earned/badge/929c117e-8be1-48b1-a3ec-02bd58529e73"
   badge: "https://images.credly.com/size/340x340/images/087eaefb-61a2-426b-ae74-74efca195667/Data_Visualization_Using_Python.png"
 
-- type: certification
-  name: Data Analysis Using Python by IBM
-  url: "https://www.credly.com/earner/earned/badge/641c3397-2ec7-4f1d-9302-a0c6a00aedf3"
-  badge: "https://images.credly.com/size/340x340/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png"
 
 - type: soft-skill-indicator
   name: Apprendimento rapido
