@@ -26,6 +26,53 @@ accomplishments:
     url: https://www.netacad.com/
   courseOverview: "Questo corso introduttivo è estremamente utile per chiunque abbia intenzione di seguire uno dei corsi della Networking Academy che utilizza il potente strumento di simulazione Packet Tracer. Il corso fornisce queste competenze di base: (I) Simulare interazioni di dati che viaggiano attraverso una rete. (II) Visualizzare la rete sia in modalità logica che fisica. (III) Applicare le competenze attraverso la pratica, utilizzando i laboratori e le attività di Cisco Packet Tracer. (IV) Sviluppare il pensiero critico e le capacità di risoluzione dei problemi. (V) Mettirsi in relazione con l'installazione e la configurazione dei dispositivi IoT (Internet of Things)."
   certificateURL: "https://pdfhost.io/v/pb2CvrX1D_StefanoPedicinoIntroduction_to_Packet_Tracer_Certificate.pdf"  
+- name: Applied Data Science with Python - Level 2
+  timeline: "Sept 2021"
+  organization:
+    name: IBM - Developer Skills Network
+    url: https://students.yourlearning.ibm.com/
+  courseOverview: ""
+  certificateURL: "https://pdfhost.io/v/TTTFppuhG_Cognitiveclass_PY0101EN_Certificate___Cognitive_Class.pdf"
+
+- name: Introduction to Data Science - Certificazione
+  timeline: "Sept 2021"
+  organization:
+    name: IBM - Developer Skills Network
+    url: https://students.yourlearning.ibm.com/
+  courseOverview: ""
+  certificateURL: "https://pdfhost.io/v/i9Y2Pk8nw_BigDataUniversity_DS0101EN_Certificate___Skillsbuild_for_Students.pdf"
+
+- name: Data Analysis Using Python - Certificazione
+  timeline: "Sept 2021"
+  organization:
+    name: IBM - Developer Skills Network
+    url: https://students.yourlearning.ibm.com/
+  courseOverview: ""
+  certificateURL: "https://pdfhost.io/v/YThHUwgqx_CognitiveClass_DA0101EN_Certificate___Cognitive_Class.pdf"
+
+- name: Data Visualization Using Python - Certificazione
+  timeline: "Sept 2021"
+  organization:
+    name: IBM - Developer Skills Network
+    url: https://students.yourlearning.ibm.com/
+  courseOverview: ""
+  certificateURL: "https://pdfhost.io/v/d~.w2tXzt_Cognitive_Class_DV0101EN_Certificate___Cognitive_Class.pdf"
+
+- name: Data Science Methodologies - Certificazione
+  timeline: "Sept 2021"
+  organization:
+    name: IBM - Developer Skills Network
+    url: https://students.yourlearning.ibm.com/
+  courseOverview: ""
+  certificateURL: "https://pdfhost.io/v/BxQVAJuFY_CognitiveClass_DS0103EN_Certificate___Skillsbuild_for_Students.pdf"
+
+- name: Data Science Tools - Certificazione
+  timeline: "Sept 2021"
+  organization:
+    name: IBM - Developer Skills Network
+    url: https://students.yourlearning.ibm.com/
+  courseOverview: ""
+  certificateURL: "https://pdfhost.io/v/zzLgq3ziL_CognitiveClass_DS0105EN_Certificate___Skillsbuild_for_Students.pdf"
   
 - name: Lettera di raccomandazione da Practicum by Yandex
   timeline: "Sept 2021"
