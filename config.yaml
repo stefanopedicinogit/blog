@@ -27,7 +27,7 @@ enableEmoji: true
 params:
   logo:
     main: images/favicon.svg
-    inverted: blog.jpg
+    inverted: images/favicon.svg
     favicon: images/favicon.svg
   
   # GitHub repo URL of your site
