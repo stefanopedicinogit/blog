@@ -23,7 +23,7 @@ skills:
 
 - name: seaborn, Matplotlib, plotly
   logo: /images/sections/skills/Seaborn.png
-  summary: "Building astonishing graphics. Also, experienced with Tableau."
+  summary: "Building astonishing graphics. Experienced as well, with Tableau."
   url: "https://seaborn.pydata.org/"
 
 - name: sklearn, PyTorch, tensorflow
@@ -33,12 +33,12 @@ skills:
 
 - name: SQL
   logo: /images/sections/skills/sql.png
-  summary: "Good command. Data base retriving. Query/Subquery inquires."
+  summary: "Good command. Database retrieving. Query/Subquery inquires."
   url: "https://www.mysql.com/it/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using Linux as second operating system (Shell command). Basic BASH scripting."
+  summary: "Using Linux as the second operating system (Shell command). Basic BASH scripting."
   url: "https://www.linux.it/"
 
 - name: Git
@@ -48,25 +48,25 @@ skills:
 
 - name: C/C++
   logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  summary: "Know basic C/C++ programming. Used for contest programming and problem-solving."
   url: "https://devdocs.io/cpp/"
 
 - name: C-Objective
   logo: /images/sections/skills/csharp.png
-  summary: "Know basic C# programming. Used for code scripts for videogames engine."
+  summary: "Know basic C# programming. Utilized to code scripts for video games engine."
   url: "https://docs.microsoft.com/it-it/dotnet/csharp/"
 
 - name: Unity 3D
   logo: /images/sections/skills/unity.png
-  summary: "Basic knowledges. Videogames engine platform."
+  summary: "Intermediate knowledges. Videogames engine platform."
   url: "https://unity.com/"
 
 - name: HTML5
   logo: /images/sections/skills/html5.png
-  summary: "Basic knowledges of the markup language HTML5. Able to extract JSON format codes from the web to build databases."
+  summary: "Basic knowledge of the markup language HTML5. Able to extract JSON format codes from the web to build databases."
   url: "https://html.com/tags/doctype/"
 
 - name: YAML
   logo: /images/sections/skills/yaml.png
-  summary: "Basic knowledges of the markup language YAML. (YAML Ain't a Markup Language)"
+  summary: "Basic knowledge of the markup language YAML. (YAML Ain't a Markup Language)"
   url: "https://html.com/tags/doctype/"
