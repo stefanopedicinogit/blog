@@ -25,6 +25,11 @@ enableEmoji: true
 
 # Site parameters
 params:
+  logo:
+  main: blog.jpg
+  inverted: blog.jpg
+  favicon: images/favicon.svg
+  
   # GitHub repo URL of your site
   gitRepo: https://github.com/stefanopedicinogit/blog/
 
