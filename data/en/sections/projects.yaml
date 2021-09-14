@@ -27,7 +27,7 @@ projects:
   timeline: "Dic 2020 - Jan 2021"
   repo: https://github.com/stefanopedicinogit/Data_Preprocessing-Project/blob/main/Data%20Preprocessing%20Project.ipynb # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Preparing a report for a bank’s loan division. Clean up, rearrange and classify the data.
+  summary: Prepared a report for a bank’s loan division. 
   tags: ["professional", "Yandex", "data_processing", "pandas", "numpy"]
 
 - name: Exploratory Data Analysis
@@ -36,7 +36,7 @@ projects:
   timeline: "Jan 2021 - Jan 2021"
   repo: https://github.com/stefanopedicinogit/Exploratory_Data_Analysis-EDA-Project/blob/main/Exploratory%20Data%20Analysis%20(EDA)%20Project.ipynb
   #url: ""
-  summary: Research on cars ads as analyst. Explore and graphically render the data. 
+  summary: Research on cars ads as analyst. Condupted Exploratory Data Analysis
   tags: ["professional", "Yandex", "data_analysis", "graphics"]
 
 - name: Statistical Data Analysis
@@ -108,7 +108,7 @@ projects:
   timeline: "May 2021 - May 2021"
   repo: https://github.com/stefanopedicinogit/Linear_Algebra/blob/main/Linear%20Algebra%20Project.ipynb
   #url: ""
-  summary: The goal is find customers who are similar to a given customer and predict whether a new customer is likely to receive an insurance benefit, furthermore predict the number of insurance benefits a new customer is likely to receive. Protect clients' personal data performing obfuscation.
+  summary: The goal is to find customers who are similar to a given customer and predict whether a new customer is likely to receive an insurance benefit, furthermore predict the number of insurance benefits a new customer is likely to receive. Protect clients' personal data by performing obfuscation.
   tags: ["professional", "Yandex", "numpy", "machine_learning", "regression_and_classification_models", "applied_algebra", "matrix", "KNeighbors"]
 
 - name: Numerical Methods
