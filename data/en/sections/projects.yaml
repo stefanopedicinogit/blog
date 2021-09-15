@@ -27,7 +27,7 @@ projects:
   timeline: "Dic 2020 - Jan 2021"
   repo: https://github.com/stefanopedicinogit/Data_Preprocessing-Project/blob/main/Data%20Preprocessing%20Project.ipynb # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Prepared a report for a bank’s loan division. 
+  summary: Prepared a report for a bank’s loan division. Finded if a customer’s marital status and number of children had an impact on whether they will default on a loan. 
   tags: ["professional", "Yandex", "data_processing", "pandas", "numpy"]
 
 - name: Exploratory Data Analysis
@@ -36,7 +36,7 @@ projects:
   timeline: "Jan 2021 - Jan 2021"
   repo: https://github.com/stefanopedicinogit/Exploratory_Data_Analysis-EDA-Project/blob/main/Exploratory%20Data%20Analysis%20(EDA)%20Project.ipynb
   #url: ""
-  summary: Research on cars ads as analyst. Condupted Exploratory Data Analysis
+  summary: Research on cars ads as analyst. Studied data collected over the last years and determined which factors impact the price. Condupted data visualization.
   tags: ["professional", "Yandex", "data_analysis", "graphics"]
 
 - name: Statistical Data Analysis
@@ -45,7 +45,7 @@ projects:
   timeline: "Jan 2021 - Feb 2021"
   repo: https://github.com/stefanopedicinogit/Statistical_Data_Analysis-SDA-Project/blob/main/Statistical%20Data%20Analysis%20Project.ipynb
   #url: ""
-  summary: Analyzing clients behevior and make statistical hypotesis with the help of A/B testing.
+  summary: Analyzed clients behevior and made statistical hypotesis with the help of A/B testing.
   tags: ["professional", "Yandex", "statistic", "data_analysis"]
 
 - name: Integrated Project 1
@@ -54,7 +54,7 @@ projects:
   timeline: "Feb 2021 - Mar 2021"
   repo: https://github.com/stefanopedicinogit/Integrated_Project_1/blob/main/Integrated%20Project%201%20.ipynb
   #url: ""
-  summary: Carry out Data Analysis, data visualization, formulate statistical hypotesis and a prognosis for the next year's sales.
+  summary: Carried out Data Analysis, data visualization, formulated statistical hypotesis and a prognosis for the next year's sales.
   tags: ["professional", "Yandex", "statistic", "data_analysis"]
 
 - name: Data Collection and Storage-SQL-PySparks
@@ -63,7 +63,7 @@ projects:
   timeline: "Mar 2021 - Mar 2021"
   repo: https://github.com/stefanopedicinogit/Data_Collection_and_Storage-SQL-PySparks-Project/blob/main/Data%20Collection%20and%20Storage%20(SQL)%20Project.ipynb
   #url: ""
-  summary: Retrive the data from SQL and test in Python an hypothesis about the impact of weather on ride frequency.
+  summary: Retrived the data from SQL and tested in Python a hypothesis about the impact of weather on ride frequency.
   tags: ["professional", "Yandex", "SQL", "PySparks", 'collection_and_storage']
 
 - name: Introduction to Machine Learning
@@ -72,7 +72,7 @@ projects:
   timeline: "Mar 2021 - Apr 2021"
   repo: https://github.com/stefanopedicinogit/Introduction_to_Machine_Learning-Project/blob/main/Introduction%20to%20Machine%20Learning%20Project.ipynb
   #url: ""
-  summary: Classification task, develop a model that will pick the right plan. The threshold for accuracy is 0.75.
+  summary: Develop a model for a phone company that will classify the right plan for a given user. The threshold for accuracy is 0.75.
   tags: ["professional", "Yandex", "machine_learning", "classification_model"]
 
 - name: Supervised Learning
@@ -90,7 +90,7 @@ projects:
   timeline: "Apr 2021 - May 2021"
   repo: https://github.com/stefanopedicinogit/Machine_Learning_in_Business-Project/blob/main/Machine%20Learning%20in%20Business%20Project.ipynb
   #url: ""
-  summary: Regression task. Build a model for predicting the volume of reserves and pick the region with the highest profit margin. Analyze potential profit and risks using the Bootstrapping technique.
+  summary: Builded a model for predicting the volume of oil reserves and picked the region with the highest profit margin. Analyzed potential profit and risks using the Bootstrapping technique.
   tags: ["professional", "Yandex", "machine_learning", "regression_model", "RMSE", "r2_score", "risk_calculation", "bootstrapping_tecnique"]
 
 - name: Integrated Project 2
@@ -99,7 +99,7 @@ projects:
   timeline: "May 2021 - May 2021"
   #repo:
   #url: ""
-  summary: Regression task. The interested model should predict the amount of gold recovered from gold ore. Evaluation method SMAPE.
+  summary: Built a model to predict the amount of gold recovered from gold ore. Regression task. Evaluation method SMAPE.
   tags: ["professional", "Yandex", "machine_learning", "regression_model", "SMAPE"]
 
 - name: Linear Algebra
@@ -108,7 +108,7 @@ projects:
   timeline: "May 2021 - May 2021"
   repo: https://github.com/stefanopedicinogit/Linear_Algebra/blob/main/Linear%20Algebra%20Project.ipynb
   #url: ""
-  summary: The goal is to find customers who are similar to a given customer and predict whether a new customer is likely to receive an insurance benefit, furthermore predict the number of insurance benefits a new customer is likely to receive. Protect clients' personal data by performing obfuscation.
+  summary: Finded customers who are similar to a given customer and predicted whether a new customer is likely to receive an insurance benefit, predicted as well, the number of insurance benefits the new customer is likely to receive. Protected clients' personal data by performing obfuscation.
   tags: ["professional", "Yandex", "numpy", "machine_learning", "regression_and_classification_models", "applied_algebra", "matrix", "KNeighbors"]
 
 - name: Numerical Methods
@@ -116,7 +116,7 @@ projects:
   role: Owner / Data Scientist
   timeline: "May 2021 - Jun 2021"
   repo: https://github.com/stefanopedicinogit/Numerical_Methods-Project/blob/main/Numerical%20Methods%20Project.ipynb
-  summary: Regression task. Build a model to predict the market value of your car. Calculate the quality of the prediction, the speed of the prediction, the time required for training.
+  summary: Built a model to predict the market value of a car. Calculated the quality of the prediction, the speedness and the time required for training.
   tags: ["professional", "Yandex", "machine_learning", "regression_models", "SGD_regression_models", "CatBoost", "LGBM", "XGBoost"]
 
 - name: Time Series
@@ -125,7 +125,7 @@ projects:
   timeline: "Jun 2021 - Jun 2021"
   repo: https://github.com/stefanopedicinogit/Time_Series-Project/blob/main/Time%20Series%20Project.ipynb
   #url: ""
-  summary: Regression model. Predict the amount of taxi orders for the next hour. The RMSE metric on the test set should not be more than 48.
+  summary: Predicted the amount of taxi orders for the next hour. Regression task. The threshold for RMSE metric is lower then 48.
   tags: ["professional", "Yandex", "machine_learning", "regression_models", "time series", "Stochastic Gradient Descent models"]
 
 - name: Machine learning for Texts
@@ -133,7 +133,7 @@ projects:
   role: Owner / Data Scientist
   timeline: "Jun 2021 - July 2021"
   repo: https://github.com/stefanopedicinogit/Machine_Learning_For_Text-Project/blob/main/Machine%20Learning%20for%20Texts%20Project.ipynb
-  summary: The goal is to train a model to automatically detect negative reviews. F1 score of at least 0.85.
+  summary: Trained a model for sentimental texts analysis to automatically detect negative reviews. F1 score of at least 0.85.
   tags: ["professional", "Yandex", "machine_learning", "classification_models", "probabilities", "NLTK", "spaCy" ,"TF-IDF", "BERT"]
 
 - name: Computer Vision
@@ -141,7 +141,7 @@ projects:
   role: Owner / Data Scientist
   timeline: "July 2021 - July 2021"
   repo: https://github.com/stefanopedicinogit/Computer_Vision-Project/blob/main/Computer%20Vision%20Project.ipynb
-  summary: The task then is to build and evaluate a neural network architecture for verifying people's age looking at photos.
+  summary: Built and evaluated a convolutional neural network architecture to verify people's age looking at photos.
   tags: ["professional", "Yandex", "machine_learning", "NeuralNetworks", "ResNet50", "regression_on_images"]
 
 - name: Final Project
@@ -149,7 +149,7 @@ projects:
   role: Owner / Data Scientist
   timeline: "Aug 2021 - Aug 2021"
   repo: https://github.com/stefanopedicinogit/Final-Project
-  summary: Classification problem. Build a model to predict possible churns. (Two file ipynb in the link.)
+  summary: Built a model to predict possible churns. (Two file ipynb in the link.)
   tags: ["professional", "Yandex", "machine_learning"]
 
 - name: Toha
