@@ -11,6 +11,22 @@ section:
 
 # Your accomplishments
 accomplishments:
+- name: Recommendation letter from Practicum by Yandex
+  timeline: "Sept 2021"
+  organization:
+    name: Practicum by Yandex
+    url: https://practicum.yandex.com/
+  courseOverview: "Recommendation letter from Practicum by Yandex for the diligence with which I completed the program and for my commitment as a Senior student."
+  certificateURL: "https://pdfhost.io/v/ZNNoWMr6H_recommendation_letter_Practicum_by_Yandex.pdf"
+  
+- name: Recommendation letter from POP SRL 
+  timeline: "Set 2017"
+  organization:
+    name: POP SRL
+    url: https://popcommunication.it/
+  courseOverview: "Recommendation letter from POP SRL communications company leader in Northen Italy"
+  certificateURL: "https://pdfhost.io/v/LB0v3T9.R_recommendation_letter_POP_SrlPDF.pdf"
+
 
 - name: Data Scientist Professional Training Course (580 hours)
   timeline: "Dic 2020 - Aug 2021"
@@ -76,18 +92,34 @@ accomplishments:
   courseOverview: ""
   certificateURL: "https://pdfhost.io/v/zzLgq3ziL_CognitiveClass_DS0105EN_Certificate___Skillsbuild_for_Students.pdf"
   
-- name: Recommendation letter from Practicum by Yandex
+ - name: Advanced Predictive Modeling Mastering Ensembles and Metamodeling
   timeline: "Sept 2021"
   organization:
-    name: Practicum by Yandex
-    url: https://practicum.yandex.com/
-  courseOverview: "Recommendation letter from Practicum by Yandex for the diligence with which I completed the program and for my commitment as a Senior student."
-  certificateURL: "https://pdfhost.io/v/ZNNoWMr6H_recommendation_letter_Practicum_by_Yandex.pdf"
-  
-- name: Recommendation letter from POP SRL 
-  timeline: "Set 2017"
+    name: Linkedin e-learning
+    url: https://www.linkedin.com/learning/me?trk=nav_neptune_learning
+  courseOverview: ""
+  certificateURL: "https://https://pdfhost.io/v/pyVVBZZpb_CertificateOfCompletion_Advanced_Predictive_Modeling_Mastering_Ensembles_and_Metamodeling.pdf"
+
+- name: Machine Learning with Scikit-learn
+  timeline: "Sept 2021"
   organization:
-    name: POP SRL
-    url: https://popcommunication.it/
-  courseOverview: "Recommendation letter from POP SRL communications company leader in Northen Italy"
-  certificateURL: "https://pdfhost.io/v/LB0v3T9.R_recommendation_letter_POP_SrlPDF.pdf"
+    name: Linkedin e-learning
+    url: https://www.linkedin.com/learning/me?trk=nav_neptune_learning
+  courseOverview: ""
+  certificateURL: "https://pdfhost.io/v/Ale3g83.l_CertificateOfCompletion_Machine_Learning_with_ScikitLearn.pdf"
+  
+ - name: Advanced Pandas
+  timeline: "Sept 2021"
+  organization:
+    name: Linkedin e-learning
+    url: https://www.linkedin.com/learning/me?trk=nav_neptune_learning
+  courseOverview: ""
+  certificateURL: "https://pdfhost.io/v/JgcdT3MhU_CertificateOfCompletion_Advanced_Pandas.pdf
+
+- name: Applied Machine Learning Algorithms
+  timeline: "Sept 2021"
+  organization:
+    name: Linkedin e-learning
+    url: https://www.linkedin.com/learning/me?trk=nav_neptune_learning
+  courseOverview: ""
+  certificateURL: "https://pdfhost.io/v/ZiXxU~c8G_CertificateOfCompletion_Applied_Machine_Learning_Algorithms.pdf"
