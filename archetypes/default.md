@@ -4,3 +4,6 @@ date: {{ .Date }}
 draft: true
 ---
 
+---
+featuredImage: "assets/images/site/background3.jpg"
+---
