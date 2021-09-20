@@ -35,6 +35,11 @@ skills:
   logo: /images/sections/skills/sql.png
   summary: "Good command. Database retrieving. Query/Subquery inquires."
   url: "https://www.mysql.com/it/"
+  
+- name: Tableau
+  logo: /images/sections/skills/tableau.png
+  summary: "Good command. Utilized to create and render data in a graphical way. A useful and powerful tool to display geodata."
+  url: "https://www.tableau.com/it-it/trial/tableau-software?utm_campaign=Prospecting-CORE-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Google+Search&utm_campaign_id=2017049&utm_language=IT&utm_country=SoEUR&adgroup=CTX-Brand-Core-EN-E&adused=STAT&creative=&gclid=CjwKCAjw4qCKBhAVEiwAkTYsPGhkjj25kWtyRnzSxr4E5-hm6lf5uXjkqvmb8hZoTrjoKCURy794vRoC5u0QAvD_BwE&gclsrc=aw.ds"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
@@ -48,12 +53,12 @@ skills:
 
 - name: C/C++
   logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem-solving."
+  summary: "Intermediate C/C++ programming knowledges. Used for contest programming and problem-solving."
   url: "https://devdocs.io/cpp/"
 
 - name: C-Objective
   logo: /images/sections/skills/csharp.png
-  summary: "Know basic C# programming. Utilized to code scripts for video games engine."
+  summary: "Intermediate C# programming. Utilized to code scripts for video games engine."
   url: "https://docs.microsoft.com/it-it/dotnet/csharp/"
 
 - name: Unity 3D
@@ -68,5 +73,5 @@ skills:
 
 - name: YAML
   logo: /images/sections/skills/yaml.png
-  summary: "Basic knowledge of the markup language YAML. (YAML Ain't a Markup Language)"
+  summary: "Basic knowledge of the markup language YAML."
   url: "https://html.com/tags/doctype/"
