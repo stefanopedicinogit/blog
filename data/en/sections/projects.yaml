@@ -108,7 +108,7 @@ projects:
   timeline: "May 2021 - May 2021"
   repo: https://github.com/stefanopedicinogit/Linear_Algebra/blob/main/Linear%20Algebra%20Project.ipynb
   #url: ""
-  summary: Finded customers who are similar to a given customer and predicted whether a new customer is likely to receive an insurance benefit, predicted as well, the number of insurance benefits the new customer is likely to receive. Protected clients' personal data by performing obfuscation.
+  summary: Found customers who are similar to a given customer and predicted whether a new customer is likely to receive an insurance benefit, predicted as well, the number of insurance benefits the new customer is likely to receive. Protected clients' personal data by performing obfuscation.
   tags: ["professional", "Yandex", "numpy", "machine_learning", "regression_and_classification_models", "applied_algebra", "matrix", "KNeighbors"]
 
 - name: Numerical Methods
