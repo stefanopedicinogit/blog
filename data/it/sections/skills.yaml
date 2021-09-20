@@ -35,6 +35,11 @@ skills:
   logo: /images/sections/skills/sql.png
   summary: "Buona padronanza. Recupero database. Query/Subquery."
   url: "https://www.mysql.com/it/"
+  
+- name: Tableau
+  logo: /images/sections/skills/tableau.png
+  summary: "Buona padronanza. Utilizzato per creare e rendere i dati in modo grafico. Uno strumento utile e potente per visualizzare i geodati."
+  url: "https://www.tableau.com/it-it/trial/tableau-software?utm_campaign=Prospecting-CORE-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Google+Search&utm_campaign_id=2017049&utm_language=IT&utm_country=SoEUR&adgroup=CTX-Brand-Core-EN-E&adused=STAT&creative=&gclid=CjwKCAjw4qCKBhAVEiwAkTYsPGhkjj25kWtyRnzSxr4E5-hm6lf5uXjkqvmb8hZoTrjoKCURy794vRoC5u0QAvD_BwE&gclsrc=aw.ds"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
