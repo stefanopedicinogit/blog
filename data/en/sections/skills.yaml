@@ -23,12 +23,12 @@ skills:
 
 - name: seaborn, Matplotlib, plotly
   logo: /images/sections/skills/Seaborn.png
-  summary: "Building astonishing graphics. Experienced as well, with Tableau."
+  summary: "Capable to build astonishing graphics."
   url: "https://seaborn.pydata.org/"
 
 - name: sklearn, PyTorch, tensorflow
   logo: /images/sections/projects/tensorflow.png
-  summary: "Using Python as main language for professional development. Capable of building outstanding models and architectures."
+  summary: "Capable of building outstanding models, neural networks, architectures."
   url: "https://scikit-learn.org/stable/"
 
 - name: SQL
