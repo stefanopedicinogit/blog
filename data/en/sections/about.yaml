@@ -67,10 +67,10 @@ badges:
   badge: "https://images.credly.com/size/340x340/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png"
   
 - type: certification
-  name: Data Visualization Using Python by IBM
-  url: "https://www.credly.com/earner/earned/badge/929c117e-8be1-48b1-a3ec-02bd58529e73"
-  badge: "https://images.credly.com/size/340x340/images/087eaefb-61a2-426b-ae74-74efca195667/Data_Visualization_Using_Python.png"
-
+  name: Accelerated Deep Learning with GPU
+  url: "https://www.credly.com/earner/earned/badge/14160ed5-6c65-409c-8985-cb3b609ab113"
+  badge: "https://images.credly.com/size/340x340/images/4ec26fe5-fc52-4398-a675-7e77265f3b32/Accelerated_Deep_Learning_with_GPU.png"
+  
 - type: soft-skill-indicator
   name: Active learning
   percentage: 100
