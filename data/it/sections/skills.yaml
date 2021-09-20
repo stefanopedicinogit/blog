@@ -23,12 +23,12 @@ skills:
 
 - name: seaborn, Matplotlib, plotly
   logo: /images/sections/skills/Seaborn.png
-  summary: "Costruzione di grafici stupefacenti. Esperienza anche con Tableau."
+  summary: "Costruzione di grafici stupefacenti."
   url: "https://seaborn.pydata.org/"
 
 - name: sklearn, PyTorch, tensorflow
   logo: /images/sections/projects/tensorflow.png
-  summary: "Utilizzo di Python come linguaggio principale per lo sviluppo professionale. Capace di costruire ottimi modelli e architetture."
+  summary: "Capace di costruire ottimi modelli, reti neurali e architetture."
   url: "https://scikit-learn.org/stable/"
 
 - name: SQL
@@ -53,17 +53,17 @@ skills:
 
 - name: C/C++
   logo: /images/sections/skills/c++.png
-  summary: "Conoscenza base di C/C++. Utilizzato per la programmazione e la risoluzione dei problemi."
+  summary: "Conoscenza intermedia di C/C++. Utilizzato per la programmazione e la risoluzione dei problemi."
   url: "https://devdocs.io/cpp/"
 
 - name: C-Objective
   logo: /images/sections/skills/csharp.png
-  summary: "Conoscenza base di C#. Utilizzato per gli script di codice per il motore dei videogiochi."
+  summary: "Conoscenza intermedia di C#. Utilizzato per gli script di codice per il motore dei videogiochi."
   url: "https://docs.microsoft.com/it-it/dotnet/csharp/"
 
 - name: Unity 3D
   logo: /images/sections/skills/unity.png
-  summary: "Conoscenza base. Piattaforma/Interfaccia grafica per la creazione di videogames."
+  summary: "Conoscenza intermedia. Piattaforma/Interfaccia grafica per la creazione di videogames."
   url: "https://unity.com/"
 
 - name: HTML5
