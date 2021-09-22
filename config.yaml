@@ -48,7 +48,7 @@ params:
   
   description: Stefano's Data Science Blog
   images:
-  - site-feature-image.jpg
+  - thumbnail.jpg
   title: Stefano's Blog
   taxonomies:
   series: series
