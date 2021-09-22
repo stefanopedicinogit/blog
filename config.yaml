@@ -48,7 +48,7 @@ params:
   
   description: Stefano's Data Science Blog
   images:
-  - /images/deepLearning.gif
+  - site-feature-image.jpg
   title: Stefano's Blog
   taxonomies:
   series: series
