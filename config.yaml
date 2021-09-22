@@ -47,8 +47,7 @@ params:
   background: images/site/brain-control.jpg
   
   description: Stefano's Data Science Blog
-  images:
-  - thumbnail.jpg
+  images: /images/site/thumbnail.jpg
   title: Stefano's Blog
   taxonomies:
   series: series
