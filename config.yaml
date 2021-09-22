@@ -45,3 +45,10 @@ params:
     enable: true
 
   background: images/site/brain-control.jpg
+  
+  description: Stefano's Data Science Blog
+  images:
+  - /images/deepLearning.gif
+  title: Stefano's Blog
+  taxonomies:
+  series: series
