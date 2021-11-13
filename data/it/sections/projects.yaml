@@ -29,6 +29,49 @@ projects:
   #url: ""
   summary: Progetto di ricognizione facciale tramite drone. Ho addestrato il mio drone a riconoscere i volti umani e anche a seguirli.
   tags: ["professional", 'face_recognition', 'machine_learning', 'math', 'pygame', 'cv2']
+  
+- name: Algebra lineare
+  logo: /images/sections/projects/alg.png
+  role: Owner / Data Scientist
+  timeline: "May 2021 - May 2021"
+  repo: https://github.com/stefanopedicinogit/Linear_Algebra/blob/main/Linear%20Algebra%20Project.ipynb
+  #url: ""
+  summary: L'obiettivo è trovare clienti simili a un determinato cliente e prevedere se è probabile che un nuovo cliente riceva un vantaggio assicurativo, inoltre prevedere il numero di vantaggi assicurativi che è probabile che un nuovo cliente riceva. Proteggi i dati personali dei clienti effettuando l'offuscamento.
+  tags: ["professionale", "Yandex", "numpy", "machine_learning", "modelli_di_regressione_classificazione", "algebra_applicata", "matrici", "matrici_offuscate", "KNeighbors"]
+
+- name: Metodi numerici
+  logo: /images/sections/projects/catboost.png
+  role: Owner / Data Scientist
+  timeline: "May 2021 - Jun 2021"
+  repo: https://github.com/stefanopedicinogit/Numerical_Methods-Project/blob/main/Numerical%20Methods%20Project.ipynb
+  summary: Compito di regressione. Costruisci un modello per prevedere il valore di mercato della tua auto. Calcola la qualità del pronostico, la velocità del pronostico, il tempo necessario per l'allenamento.
+  tags: ["professionale", "Yandex", "apprendimento_automatico", "regressione_lineare", "modelli_regressivi_SGD", "CatBoost", "LGBM", "XGBoost"]
+
+- name: Serie temporali
+  logo: /images/sections/projects/time-series-analysis.png
+  role: Owner / Data Scientist
+  timeline: "Jun 2021 - Jun 2021"
+  repo: https://github.com/stefanopedicinogit/Time_Series-Project/blob/main/Time%20Series%20Project.ipynb
+  #url: ""
+  summary: Modello di regressione. Prevedi la quantità di ordini di taxi per l'ora successiva. La metrica RMSE sul set di test non deve essere superiore a 48.
+  tags: ["professionale", "Yandex", "apprendimento_automatico", "regressione_lineare", "serie temporali", "Modelli stocastici a discesa con gradiente"]
+
+- name: Apprendimento automatico per i testi
+  logo: /images/sections/projects/BERT.png
+  role: Owner / Data Scientist
+  timeline: "Jun 2021 - July 2021"
+  repo: https://github.com/stefanopedicinogit/Machine_Learning_For_Text-Project/blob/main/Machine%20Learning%20for%20Texts%20Project.ipynb
+  summary: L'obiettivo è addestrare un modello a rilevare automaticamente le recensioni negative. Punteggio F1 di almeno 0,85.
+  tags: ["professionale", "Yandex", "apprendimento_automatico", "modelli_di_classificazione", "probabilita", "NLTK", "spaCy" ,"TF-IDF", "BERT"]
+
+- name: Visione artificiale
+  logo: /images/sections/projects/tensorflow.png
+  role: Owner / Data Scientist
+  timeline: "July 2021 - July 2021"
+  repo: https://github.com/stefanopedicinogit/Computer_Vision-Project/blob/main/Computer%20Vision%20Project.ipynb
+  summary: I metodi di visione artificiale possono essere utilizzati per determinare l'età di una persona da una foto. Il compito quindi è costruire e valutare un'architettura di rete neurale per verificare l'età delle persone.
+  tags: ["professionale", "Yandex", "apprendimento_automatico", "reti neurali", "ResNet50", "regressione_su_immagini"]
+
 
 - name: Analisi esplorativa dei dati
   logo: /images/sections/projects/matplotlib.png
@@ -101,48 +144,6 @@ projects:
   #url: ""
   summary: Compito di regressione. Il modello interessato dovrebbe prevedere la quantità di oro recuperata dal minerale d'oro. Metodo di valutazione SMPE.
   tags: ["professionale", "Yandex", "apprendimento_automatico", "regressione_lineare", "SMAPE"]
-
-- name: Algebra lineare
-  logo: /images/sections/projects/alg.png
-  role: Owner / Data Scientist
-  timeline: "May 2021 - May 2021"
-  repo: https://github.com/stefanopedicinogit/Linear_Algebra/blob/main/Linear%20Algebra%20Project.ipynb
-  #url: ""
-  summary: L'obiettivo è trovare clienti simili a un determinato cliente e prevedere se è probabile che un nuovo cliente riceva un vantaggio assicurativo, inoltre prevedere il numero di vantaggi assicurativi che è probabile che un nuovo cliente riceva. Proteggi i dati personali dei clienti effettuando l'offuscamento.
-  tags: ["professionale", "Yandex", "numpy", "machine_learning", "modelli_di_regressione_classificazione", "algebra_applicata", "matrici", "matrici_offuscate", "KNeighbors"]
-
-- name: Metodi numerici
-  logo: /images/sections/projects/catboost.png
-  role: Owner / Data Scientist
-  timeline: "May 2021 - Jun 2021"
-  repo: https://github.com/stefanopedicinogit/Numerical_Methods-Project/blob/main/Numerical%20Methods%20Project.ipynb
-  summary: Compito di regressione. Costruisci un modello per prevedere il valore di mercato della tua auto. Calcola la qualità del pronostico, la velocità del pronostico, il tempo necessario per l'allenamento.
-  tags: ["professionale", "Yandex", "apprendimento_automatico", "regressione_lineare", "modelli_regressivi_SGD", "CatBoost", "LGBM", "XGBoost"]
-
-- name: Serie temporali
-  logo: /images/sections/projects/time-series-analysis.png
-  role: Owner / Data Scientist
-  timeline: "Jun 2021 - Jun 2021"
-  repo: https://github.com/stefanopedicinogit/Time_Series-Project/blob/main/Time%20Series%20Project.ipynb
-  #url: ""
-  summary: Modello di regressione. Prevedi la quantità di ordini di taxi per l'ora successiva. La metrica RMSE sul set di test non deve essere superiore a 48.
-  tags: ["professionale", "Yandex", "apprendimento_automatico", "regressione_lineare", "serie temporali", "Modelli stocastici a discesa con gradiente"]
-
-- name: Apprendimento automatico per i testi
-  logo: /images/sections/projects/BERT.png
-  role: Owner / Data Scientist
-  timeline: "Jun 2021 - July 2021"
-  repo: https://github.com/stefanopedicinogit/Machine_Learning_For_Text-Project/blob/main/Machine%20Learning%20for%20Texts%20Project.ipynb
-  summary: L'obiettivo è addestrare un modello a rilevare automaticamente le recensioni negative. Punteggio F1 di almeno 0,85.
-  tags: ["professionale", "Yandex", "apprendimento_automatico", "modelli_di_classificazione", "probabilita", "NLTK", "spaCy" ,"TF-IDF", "BERT"]
-
-- name: Visione artificiale
-  logo: /images/sections/projects/tensorflow.png
-  role: Owner / Data Scientist
-  timeline: "July 2021 - July 2021"
-  repo: https://github.com/stefanopedicinogit/Computer_Vision-Project/blob/main/Computer%20Vision%20Project.ipynb
-  summary: I metodi di visione artificiale possono essere utilizzati per determinare l'età di una persona da una foto. Il compito quindi è costruire e valutare un'architettura di rete neurale per verificare l'età delle persone.
-  tags: ["professionale", "Yandex", "apprendimento_automatico", "reti neurali", "ResNet50", "regressione_su_immagini"]
 
 - name: Progetto finale
   logo: /images/sections/projects/jupiter.png
