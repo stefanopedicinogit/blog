@@ -19,7 +19,7 @@ buttons:
 
 projects:
 - name: Drone Face Recognition
-  logo: /images/sections/projects/pandas.png
+  logo: /images/sections/projects/drone.jpg
   role: Owner / Data Scientist
   timeline: "Dic 2020 - Jan 2021"
   repo: https://github.com/stefanopedicinogit/DroneFaceRecognition 
