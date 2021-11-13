@@ -1,4 +1,3 @@
-# section information
 section:
   name: Projects
   id: projects
@@ -8,7 +7,6 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true
 
-# filter buttons
 buttons:
 - name: All
   filter: "all"
@@ -19,16 +17,57 @@ buttons:
 - name: Hobby
   filter: "hobby"
 
-# your projects
 projects:
-- name: Data Preprocessing
+- name: Drone Face Recognition
   logo: /images/sections/projects/pandas.png
-  role: Owner / Data Analyst
+  role: Owner / Data Scientist
   timeline: "Dic 2020 - Jan 2021"
-  repo: https://github.com/stefanopedicinogit/Data_Preprocessing-Project/blob/main/Data%20Preprocessing%20Project.ipynb # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Prepared a report for a bank’s loan division. Found if a customer’s marital status and number of children had an impact on whether they will default on a loan. 
-  tags: ["professional", "Yandex", "data_processing", "pandas", "numpy"]
+  repo: https://github.com/stefanopedicinogit/DroneFaceRecognition 
+  #url: ""
+  summary: Project on drone Face Recognition. I trained my drone to recognize human faces and also to follow them. 
+  tags: ["professional", 'face_recognition', 'machine_learning', 'math', 'pygame', 'cv2']
+  
+- name: Linear Algebra
+  logo: /images/sections/projects/alg.png
+  role: Owner / Data Scientist
+  timeline: "May 2021 - May 2021"
+  repo: https://github.com/stefanopedicinogit/Linear_Algebra/blob/main/Linear%20Algebra%20Project.ipynb
+  #url: ""
+  summary: Found customers who are similar to a given customer and predicted whether a new customer is likely to receive an insurance benefit, predicted as well, the number of insurance benefits the new customer is likely to receive. Protected clients' personal data by performing obfuscation.
+  tags: ["professional", "Yandex", "numpy", "machine_learning", "regression_and_classification_models", "applied_algebra", "matrix", "KNeighbors"]
+  
+- name: Numerical Methods
+  logo: /images/sections/projects/catboost.png
+  role: Owner / Data Scientist
+  timeline: "May 2021 - Jun 2021"
+  repo: https://github.com/stefanopedicinogit/Numerical_Methods-Project/blob/main/Numerical%20Methods%20Project.ipynb
+  summary: Built a model to predict the market value of a car. Calculated the quality of the prediction, the speedness and the time required for training.
+  tags: ["professional", "Yandex", "machine_learning", "regression_models", "SGD_regression_models", "CatBoost", "LGBM", "XGBoost"]
+
+- name: Time Series
+  logo: /images/sections/projects/time-series-analysis.png
+  role: Owner / Data Scientist
+  timeline: "Jun 2021 - Jun 2021"
+  repo: https://github.com/stefanopedicinogit/Time_Series-Project/blob/main/Time%20Series%20Project.ipynb
+  #url: ""
+  summary: Predicted the amount of taxi orders for the next hour. Regression task. The threshold for RMSE metric is lower then 48.
+  tags: ["professional", "Yandex", "machine_learning", "regression_models", "time series", "Stochastic Gradient Descent models"]
+
+- name: Machine learning for Texts
+  logo: /images/sections/projects/BERT.png
+  role: Owner / Data Scientist
+  timeline: "Jun 2021 - July 2021"
+  repo: https://github.com/stefanopedicinogit/Machine_Learning_For_Text-Project/blob/main/Machine%20Learning%20for%20Texts%20Project.ipynb
+  summary: Trained a model for sentimental texts analysis to automatically detect negative reviews. F1 score of at least 0.85.
+  tags: ["professional", "Yandex", "machine_learning", "classification_models", "probabilities", "NLTK", "spaCy" ,"TF-IDF", "BERT"]
+
+- name: Computer Vision
+  logo: /images/sections/projects/tensorflow.png
+  role: Owner / Data Scientist
+  timeline: "July 2021 - July 2021"
+  repo: https://github.com/stefanopedicinogit/Computer_Vision-Project/blob/main/Computer%20Vision%20Project.ipynb
+  summary: Built and evaluated a convolutional neural network architecture to verify people's age looking at photos.
+  tags: ["professional", "Yandex", "machine_learning", "NeuralNetworks", "ResNet50", "regression_on_images"]
 
 - name: Exploratory Data Analysis
   logo: /images/sections/projects/matplotlib.png
@@ -101,48 +140,6 @@ projects:
   #url: ""
   summary: Built a model to predict the amount of gold recovered from gold ore. Regression task. Evaluation method SMAPE.
   tags: ["professional", "Yandex", "machine_learning", "regression_model", "SMAPE"]
-
-- name: Linear Algebra
-  logo: /images/sections/projects/alg.png
-  role: Owner / Data Scientist
-  timeline: "May 2021 - May 2021"
-  repo: https://github.com/stefanopedicinogit/Linear_Algebra/blob/main/Linear%20Algebra%20Project.ipynb
-  #url: ""
-  summary: Found customers who are similar to a given customer and predicted whether a new customer is likely to receive an insurance benefit, predicted as well, the number of insurance benefits the new customer is likely to receive. Protected clients' personal data by performing obfuscation.
-  tags: ["professional", "Yandex", "numpy", "machine_learning", "regression_and_classification_models", "applied_algebra", "matrix", "KNeighbors"]
-
-- name: Numerical Methods
-  logo: /images/sections/projects/catboost.png
-  role: Owner / Data Scientist
-  timeline: "May 2021 - Jun 2021"
-  repo: https://github.com/stefanopedicinogit/Numerical_Methods-Project/blob/main/Numerical%20Methods%20Project.ipynb
-  summary: Built a model to predict the market value of a car. Calculated the quality of the prediction, the speedness and the time required for training.
-  tags: ["professional", "Yandex", "machine_learning", "regression_models", "SGD_regression_models", "CatBoost", "LGBM", "XGBoost"]
-
-- name: Time Series
-  logo: /images/sections/projects/time-series-analysis.png
-  role: Owner / Data Scientist
-  timeline: "Jun 2021 - Jun 2021"
-  repo: https://github.com/stefanopedicinogit/Time_Series-Project/blob/main/Time%20Series%20Project.ipynb
-  #url: ""
-  summary: Predicted the amount of taxi orders for the next hour. Regression task. The threshold for RMSE metric is lower then 48.
-  tags: ["professional", "Yandex", "machine_learning", "regression_models", "time series", "Stochastic Gradient Descent models"]
-
-- name: Machine learning for Texts
-  logo: /images/sections/projects/BERT.png
-  role: Owner / Data Scientist
-  timeline: "Jun 2021 - July 2021"
-  repo: https://github.com/stefanopedicinogit/Machine_Learning_For_Text-Project/blob/main/Machine%20Learning%20for%20Texts%20Project.ipynb
-  summary: Trained a model for sentimental texts analysis to automatically detect negative reviews. F1 score of at least 0.85.
-  tags: ["professional", "Yandex", "machine_learning", "classification_models", "probabilities", "NLTK", "spaCy" ,"TF-IDF", "BERT"]
-
-- name: Computer Vision
-  logo: /images/sections/projects/tensorflow.png
-  role: Owner / Data Scientist
-  timeline: "July 2021 - July 2021"
-  repo: https://github.com/stefanopedicinogit/Computer_Vision-Project/blob/main/Computer%20Vision%20Project.ipynb
-  summary: Built and evaluated a convolutional neural network architecture to verify people's age looking at photos.
-  tags: ["professional", "Yandex", "machine_learning", "NeuralNetworks", "ResNet50", "regression_on_images"]
 
 - name: Final Project
   logo: /images/sections/projects/jupiter.png
