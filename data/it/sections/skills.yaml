@@ -41,6 +41,11 @@ skills:
   summary: "Buona padronanza. Utilizzato per creare e rendere i dati in modo grafico. Uno strumento utile e potente per visualizzare i geodati."
   url: "https://www.tableau.com/it-it/trial/tableau-software?utm_campaign=Prospecting-CORE-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Google+Search&utm_campaign_id=2017049&utm_language=IT&utm_country=SoEUR&adgroup=CTX-Brand-Core-EN-E&adused=STAT&creative=&gclid=CjwKCAjw4qCKBhAVEiwAkTYsPGhkjj25kWtyRnzSxr4E5-hm6lf5uXjkqvmb8hZoTrjoKCURy794vRoC5u0QAvD_BwE&gclsrc=aw.ds"
 
+- name: Django
+  logo: /images/sections/skills/django.jpg
+  summary: "Comprensione del framework Django per lo sviluppo web per unificare le mie capacità di backend con un po' di frontend development."
+  url: "https://www.djangoproject.com/"
+  
 - name: Linux
   logo: /images/sections/skills/linux.png
   summary: "Utilizzo di Linux come secondo sistema operativo (comando Shell). Conoscenza base di BASH scripting."
