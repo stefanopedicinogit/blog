@@ -33,7 +33,7 @@ skills:
 
 - name: SQL
   logo: /images/sections/skills/sql.png
-  summary: "Buona padronanza. Recupero database. Query/Subquery."
+  summary: "MySQL + PostgreSQL. Buona padronanza. Recupero database. Query/Subquery."
   url: "https://www.mysql.com/it/"
   
 - name: Tableau
