@@ -33,7 +33,7 @@ skills:
 
 - name: SQL
   logo: /images/sections/skills/sql.png
-  summary: "MySQL + PostgreSQL Good command. Database retrieving. Query/Subquery inquires."
+  summary: "MySQL + PostgreSQL. Good command. Database retrieving. Query/Subquery inquires."
   url: "https://www.mysql.com/it/"
   
 - name: Tableau
