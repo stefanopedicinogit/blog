@@ -43,7 +43,7 @@ skills:
 
 - name: Django
   logo: /images/sections/skills/django.jpg
-  summary: "Understanding of Django framework for web development to unify my backend skills with a bit of frontend."
+  summary: "Understanding of Django framework for web development to unify my backend skills with a bit of frontend development."
   url: "https://www.djangoproject.com/"
   
 - name: Linux
