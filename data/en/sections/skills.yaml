@@ -33,7 +33,7 @@ skills:
 
 - name: SQL
   logo: /images/sections/skills/sql.png
-  summary: "Good command. Database retrieving. Query/Subquery inquires."
+  summary: "MySQL + PostgreSQL Good command. Database retrieving. Query/Subquery inquires."
   url: "https://www.mysql.com/it/"
   
 - name: Tableau
@@ -41,6 +41,11 @@ skills:
   summary: "Good command. Utilized to create and render data in a graphical way. A useful and powerful tool to display geodata."
   url: "https://www.tableau.com/it-it/trial/tableau-software?utm_campaign=Prospecting-CORE-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Google+Search&utm_campaign_id=2017049&utm_language=IT&utm_country=SoEUR&adgroup=CTX-Brand-Core-EN-E&adused=STAT&creative=&gclid=CjwKCAjw4qCKBhAVEiwAkTYsPGhkjj25kWtyRnzSxr4E5-hm6lf5uXjkqvmb8hZoTrjoKCURy794vRoC5u0QAvD_BwE&gclsrc=aw.ds"
 
+- name: Django
+  logo: /images/sections/skills/django.jpg
+  summary: "Understanding of Django framework for web development to unify my backend skills with a bit of frontend."
+  url: "https://www.djangoproject.com/"
+  
 - name: Linux
   logo: /images/sections/skills/linux.png
   summary: "Using Linux as the second operating system (Shell command). Basic BASH scripting."
