@@ -57,7 +57,7 @@ projects:
   logo: /images/sections/projects/BERT.png
   role: Owner / Data Scientist
   timeline: "Jun 2021 - July 2021"
-  repo: https://github.com/stefanopedicinogit/Machine_Learning_For_Text-Project/blob/main/Machine%20Learning%20for%20Texts%20Project.ipynb
+  repo: https://github.com/stefanopedicinogit/Machine_Learning_For_Text-Project/blob/main/MachineLearningforTextsProject.ipynb
   summary: Trained a model for sentimental texts analysis to automatically detect negative reviews. F1 score of at least 0.85.
   tags: ["professional", "Yandex", "machine_learning", "classification_models", "probabilities", "NLTK", "spaCy" ,"TF-IDF", "BERT"]
 
@@ -65,7 +65,7 @@ projects:
   logo: /images/sections/projects/tensorflow.png
   role: Owner / Data Scientist
   timeline: "July 2021 - July 2021"
-  repo: https://github.com/stefanopedicinogit/Computer_Vision-Project/blob/main/Computer%20Vision%20Project.ipynb
+  repo: https://github.com/stefanopedicinogit/Computer_Vision-Project/blob/main/ComputerVision.ipynb
   summary: Built and evaluated a convolutional neural network architecture to verify people's age looking at photos.
   tags: ["professional", "Yandex", "machine_learning", "NeuralNetworks", "ResNet50", "regression_on_images"]
 
