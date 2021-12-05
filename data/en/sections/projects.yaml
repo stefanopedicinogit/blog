@@ -31,7 +31,7 @@ projects:
   logo: /images/sections/projects/alg.png
   role: Owner / Data Scientist
   timeline: "May 2021 - May 2021"
-  repo: https://github.com/stefanopedicinogit/Linear_Algebra/blob/main/Linear%20Algebra%20Project.ipynb
+  repo: https://github.com/stefanopedicinogit/Linear_Algebra/blob/main/LinearAlgebra.ipynb
   #url: ""
   summary: Found customers who are similar to a given customer and predicted whether a new customer is likely to receive an insurance benefit, predicted as well, the number of insurance benefits the new customer is likely to receive. Protected clients' personal data by performing obfuscation.
   tags: ["professional", "Yandex", "numpy", "machine_learning", "regression_and_classification_models", "applied_algebra", "matrix", "KNeighbors"]
@@ -40,7 +40,7 @@ projects:
   logo: /images/sections/projects/catboost.png
   role: Owner / Data Scientist
   timeline: "May 2021 - Jun 2021"
-  repo: https://github.com/stefanopedicinogit/Numerical_Methods-Project/blob/main/Numerical%20Methods%20Project.ipynb
+  repo: https://github.com/stefanopedicinogit/Numerical_Methods-Project/blob/main/NumericalMethods.ipynb
   summary: Built a model to predict the market value of a car. Calculated the quality of the prediction, the speedness and the time required for training.
   tags: ["professional", "Yandex", "machine_learning", "regression_models", "SGD_regression_models", "CatBoost", "LGBM", "XGBoost"]
 
@@ -57,7 +57,7 @@ projects:
   logo: /images/sections/projects/BERT.png
   role: Owner / Data Scientist
   timeline: "Jun 2021 - July 2021"
-  repo: https://github.com/stefanopedicinogit/Machine_Learning_For_Text-Project/blob/main/MachineLearningforTextsProject.ipynb
+  repo: https://github.com/stefanopedicinogit/Machine_Learning_For_Text-Project/blob/main/MachineLearningForTexts.ipynb
   summary: Trained a model for sentimental texts analysis to automatically detect negative reviews. F1 score of at least 0.85.
   tags: ["professional", "Yandex", "machine_learning", "classification_models", "probabilities", "NLTK", "spaCy" ,"TF-IDF", "BERT"]
 
@@ -137,7 +137,7 @@ projects:
   role: Owner / Data Scientist
   timeline: "May 2021 - May 2021"
   #repo:
-  #url: ""
+  url: https://github.com/stefanopedicinogit/Integrated_Project-2/blob/main/Integrated%20Project%202.ipynb
   summary: Built a model to predict the amount of gold recovered from gold ore. Regression task. Evaluation method SMAPE.
   tags: ["professional", "Yandex", "machine_learning", "regression_model", "SMAPE"]
 
